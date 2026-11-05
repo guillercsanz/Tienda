@@ -31,3 +31,12 @@ build/
 
 ### VS Code ###
 .vscode/
+# Base de datos H2
+datos/
+
+# Archivos generados por Maven
+target/
+
+# Archivos temporales
+*.mv.db
+*.trace.db
