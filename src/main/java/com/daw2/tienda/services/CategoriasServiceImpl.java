@@ -1,6 +1,7 @@
 package com.daw2.tienda.services;
 
 import com.daw2.tienda.dto.CategoriaResponse;
+import com.daw2.tienda.exceptions.CategoriaNotFoundException;
 import com.daw2.tienda.mappers.CategoriaMapper;
 import com.daw2.tienda.repositories.CategoriasRepository;
 import com.daw2.tienda.repositories.ProductosRepository;

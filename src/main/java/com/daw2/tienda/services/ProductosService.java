@@ -4,6 +4,7 @@ import com.daw2.tienda.dto.ProductoCreateRequest;
 import com.daw2.tienda.dto.ProductoResponse;
 import com.daw2.tienda.dto.ProductoUpdateRequest;
 import com.daw2.tienda.dto.VentaRequest;
+import com.daw2.tienda.services.CategoriasService;
 
 import java.util.List;
 import java.util.Optional;
